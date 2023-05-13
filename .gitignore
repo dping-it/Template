@@ -1,0 +1,4 @@
+# Project exclude paths
+/template-backend/target/
+/template-frontend/dist/
+/template-frontend/node_modules/
